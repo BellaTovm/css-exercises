@@ -1,8 +1,24 @@
-div {
-    background-color:red ; 
-    color: white;
-    font-size: 32px;
+
+.odd
+ {
+   background-color: #FFB6C1 ;
+   font-family: Verdana, "Dejavu Sans" sans-serif ;
+}
+
+.three
+{
+    font-size:  24px; ;
+}
+
+ #two
+ {
+    color: #0000FF;
+    font-size: 36px;
+ }
+
+ #four
+{
+    background-color: hsla(113, 75%, 75%, 0.93) ;
+    font-size: 24px;
     font-weight: bold;
-    text-align: center;
-     
 }
